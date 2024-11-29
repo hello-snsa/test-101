@@ -1,0 +1,10 @@
+.status-tags{
+    border: 1px solid green;
+    border-radius:50%;
+    color:black;
+    padding:1rem;
+    margin: 0.5rem;
+    width: fit-content;
+    font-size: 1rem;
+    background-color: aquamarine;
+}
